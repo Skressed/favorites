@@ -72,7 +72,7 @@ export default {
   box-shadow: 2px 6px 10px rgba(1,1,0,0.1);
   display: flex;
   flex-direction: row;
-  justify-content: end;
+  justify-content: flex-end;
   align-items: flex-end;
   transition-delay: 0.4s;
   transition: 0.4s;
