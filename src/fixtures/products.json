@@ -1,0 +1,14 @@
+{
+  "products": [
+    {"id": 1, "name": "Coca-Cola", "qty": 100, "price": 60, "amount": 0},
+    {"id": 2, "name": "Pepsi", "qty": 0, "price": 80, "amount": 0},
+    {"id": 3, "name": "Sprite", "qty": 15, "price": 70, "amount": 0},
+    {"id": 4, "name": "7Up", "qty": 15, "price": 70, "amount": 0},
+    {"id": 5, "name": "Dr. Pepper", "qty": 20, "price": 100, "amount": 0},
+    {"id": 6, "name": "Mtn Dew", "qty": 50, "price": 70, "amount": 0},
+    {"id": 7, "name": "Still water", "qty": 100, "price": 40, "amount": 0},
+    {"id": 8, "name": "Sparkling water", "qty": 100, "price": 50, "amount": 0},
+    {"id": 9, "name": "Kompot", "qty": 2, "price": 50, "amount": 0},
+    {"id": 10, "name": "Tea", "qty": 4, "price": 25, "amount": 0}
+  ]
+}
